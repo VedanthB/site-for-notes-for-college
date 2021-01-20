@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,900;1,300&display=swap');
 
 :root {
-    --primary-color: #14b351a6;
+    --primary-color: #141fb3a6;
     --off-white: #F3F4F6;
     --dark-gray: #6B7280;
 }
@@ -139,7 +139,7 @@ hr {
 /** footers **/
 
 .footer {
-    background-color: rgb(8, 150, 8);
+    background-color: rgb(8, 41, 150);
     padding: 4rem 1rem;
     text-align: center;
     color: white;
